@@ -1,0 +1,23 @@
+{
+  "name": "javascript_furigana_pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choco0809/FuriganaProgramming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choco0809/FuriganaProgramming/issues"
+  },
+  "homepage": "https://github.com/choco0809/FuriganaProgramming#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
